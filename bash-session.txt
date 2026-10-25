@@ -1,4 +1,5 @@
-    1  wget "log.tar"
+Anthony Blandino (Module 1 Transcript)
+1  wget "log.tar"
     2  unzip log.tar
     3  unzip (Copy) log.tar
     4  tar -xvf "(Copy) log.tar"
