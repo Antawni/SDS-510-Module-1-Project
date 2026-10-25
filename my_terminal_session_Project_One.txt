@@ -1,0 +1,11 @@
+Script started on 2026-10-25 11:34:33-07:00 [TERM="xterm-256color" TTY="/dev/pts/3" COLUMNS="120" LINES="30"]
+[?2004h]0;antawni@DESKTOP-QRSPR2E: ~[01;32mantawni@DESKTOP-QRSPR2E[00m:[01;34m~[00m$ cd "/mnt/c/Users/antho/Downloads"
+[?2004l[?2004h]0;antawni@DESKTOP-QRSPR2E: /mnt/c/Users/antho/Downloads[01;32mantawni@DESKTOP-QRSPR2E[00m:[01;34m/mnt/c/Users/antho/Downloads[00m$ tar -xzvf log.tar.gz
+[?2004llog.csv
+[?2004h]0;antawni@DESKTOP-QRSPR2E: /mnt/c/Users/antho/Downloads[01;32mantawni@DESKTOP-QRSPR2E[00m:[01;34m/mnt/c/Users/antho/Downloads[00m$ grep '[K~[K',edicatopm[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[7mgrep ',education[^,]*\.txt,' log.csv[27mgrep ',education[^,]*\.txt,' log.csv
+[?2004l40.77.167.ifh,2017-06-27,07:03:14,0.0,1302343.0,0000869311-17-000385[01;31m[K,education.realty.trust..txt,[m[K200.0,5145.0,0.0,0.0,0.0,10.0,0.0,
+86.153.148.abf,2017-06-27,23:54:09,0.0,1302343.0,0001390777-09-000029[01;31m[K,educationrealty2008yebnymc.txt,[m[K200.0,7078.0,0.0,0.0,0.0,10.0,0.0,
+[?2004h]0;antawni@DESKTOP-QRSPR2E: /mnt/c/Users/antho/Downloads[01;32mantawni@DESKTOP-QRSPR2E[00m:[01;34m/mnt/c/Users/antho/Downloads[00m$ exit
+[?2004lexit
+
+Script done on 2026-10-25 11:39:48-07:00 [COMMAND_EXIT_CODE="0"]
