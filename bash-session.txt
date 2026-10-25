@@ -1,4 +1,5 @@
 Anthony Blandino (Module 1 Transcript)
+NOTE: I got the answer no problem however getting this into github was my struggle.  Took me over 6 hours to get to this point and it looks very messy.  For how I got my answer it goes to 25.  It rerecorded when I was trying to redo it but it turned out it was recording the whole time over and over again.
 1  wget "log.tar"
     2  unzip log.tar
     3  unzip (Copy) log.tar
