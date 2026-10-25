@@ -1,0 +1,127 @@
+    1  wget "log.tar"
+    2  unzip log.tar
+    3  unzip (Copy) log.tar
+    4  tar -xvf "(Copy) log.tar"
+    5  cd /mnt/c/Users
+    6  ls
+    7  antho
+    8  cd "/mnt/c/Users/antho/Downloads"
+    9  tar -xvf "(Copy) log.tar"
+   10  ls *log*
+   11  tar -xzvf log.tar.gz
+   12  tar -x log.tar.gz
+   13  head log.csv
+   14  head -n 1 log.csv
+   15  grep -i 'education.*\.txt' log.csv
+   16  grep -i 'education.*\.txt' log.csv > results.txt
+   17  wc -l results.txt
+   18  head results.txt
+   19  cat results.txt
+   20  awk -F',' '$7 ~ /^education.*\.txt$/ {print}' log.csv > results2.txt
+   21  grep ',education[^,]*\.txt,' results.txt
+   22  grep ',education[^,]*\.txt,' results.txt > final.txt
+   23  cat final.txt
+   24  cat educationrealty2008yebnymc.txt
+   25  history
+   26  grep 'education.*\.txt' log.csv
+   27  wget "log.tar"
+   28  unzip log.tar
+   29  sudo apt install unzip
+   30  unzip log.tar
+   31  cd /mnt/c/Users/antho/Downloads
+   32  log.tar
+   33  unzip log.tar
+   34  tar -xvf log/tar
+   35  ls .tar
+   36  ls log.tar
+   37  tar -xvf "log.tar"
+   38  tar -xvf (Copy) log.tar"
+   39  tar -xvf log.tar.gz
+   40  head log.csv
+   41  grep education[^,]*\.txt log.csv
+   42  cat final.txt
+   43  grep ',education[^,]*\.txt,' results.txt > educationyadayada.text
+   44  exit
+   45  script session.txt
+   46  vi my_terminal_session.txt
+   47  history
+   48  cd "mnt/c/Users/antho/Downloads"
+   49  tar -x log.tar.gz
+   50  tar -xzvf log.tar.gz
+   51  exit
+   52  script my_terminal_session.txt
+   53  script -a my_terminal_session.txt
+   54  ls
+   55  antho
+   56  cd /mnt/c/Users
+   57  antho
+   58  cd "/mnt/c/Users/antho/Downloads"
+   59  exit
+   60  script my_terminal_session.txt
+   61  cat session.txt
+   62  ls -l session.txt
+   63  less -R session.txt
+   64  cal
+   65  w
+   66  uptime
+   67  whoami
+   68  pwd
+   69  exit
+   70  script my_terminal_session.txt
+   71  vi my_terminal_session.txt
+   72  ls -la
+   73  find ~ -name ".my_terminal_session.txt.swp"
+   74  explorer.exe .
+   75  cal
+   76  w
+   77  uptime
+   78  whoami
+   79  pwd
+   80  exit
+   81  script my_terminal_session.txt
+   82  vi script.log
+   83  cal
+   84  w
+   85  uptime
+   86  whoami
+   87  pwd
+   88  exit
+   89  script my_terminal_session.txt
+   90  scriptreplay --timing=time.txt script.log
+   91  cal
+   92  w
+   93  uptime
+   94  whoami
+   95  pwd
+   96  exit
+   97  script my_terminal_session_Module_One.txt
+   98  ls -l
+   99  realpath my_terminal_session_Module_One.txt
+  100  explorer.exe .
+  101  cat my_terminal_session_Module_One.txt
+  102  git --version
+  103  cd "/mnt/c/Users/antho/Downloads"
+  104  tar -xzvf log.tar.gz
+  105  tar -x log.tar.gz
+  106  head log.csv
+  107  grep -i 'education.*\.txt' log.csv > results.txt
+  108  grep ',education[^,]*\.txt,' results.txt
+  109  cd "/mnt/c/Users/antho/Downloads"
+  110  ls *log*
+  111  cd "/mnt/c/Users/antho/Downloads"
+  112  tar -x log.tar.gz
+  113  head log.csv
+  114  head -n 1 log.csv
+  115  grep -i 'education.*\.txt' log.csv
+  116  grep -i 'education.*\.txt' log.csv > results.txt
+  117  cd "/mnt/c/Users/antho/Downloads"
+  118  tar -xzvf log.tar.gz
+  119  grep ',education[^,]*\.txt,' log.csv
+  120  exit
+  121  script my_terminal_session.txt
+  122  cd /mnt/c/Users/antho/Downloads/SDS-510-Module-1-Project
+  123  git status
+  124  cp ../my_terminal_session.txt .
+  125  find ~ /mnt/c/Users/antho/Downloads -name "my_terminal_session.txt" 2>/dev/null
+  126  cp ~/my_terminal_session.txt .
+  127  history > bash-session.txt
